@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/inheritance and polymorphism/animal/animal.iml" filepath="$PROJECT_DIR$/inheritance and polymorphism/animal/animal.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance and polymorphism/inheritance and polymorphism.iml" filepath="$PROJECT_DIR$/inheritance and polymorphism/inheritance and polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance and polymorphism/inheritance1/inheritance1.iml" filepath="$PROJECT_DIR$/inheritance and polymorphism/inheritance1/inheritance1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance and polymorphism/inheritance2/inheritance2.iml" filepath="$PROJECT_DIR$/inheritance and polymorphism/inheritance2/inheritance2.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop.JavaEssential.iml" filepath="$PROJECT_DIR$/oop.JavaEssential.iml" />
     </modules>
   </component>

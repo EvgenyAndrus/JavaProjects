@@ -3,10 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/inheritance and polymorphism/animal/animal.iml" filepath="$PROJECT_DIR$/inheritance and polymorphism/animal/animal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance and polymorphism/bird/bird.iml" filepath="$PROJECT_DIR$/inheritance and polymorphism/bird/bird.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance and polymorphism/final_class/final_class.iml" filepath="$PROJECT_DIR$/inheritance and polymorphism/final_class/final_class.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance and polymorphism/inheritance and polymorphism.iml" filepath="$PROJECT_DIR$/inheritance and polymorphism/inheritance and polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance and polymorphism/inheritance1/inheritance1.iml" filepath="$PROJECT_DIR$/inheritance and polymorphism/inheritance1/inheritance1.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance and polymorphism/inheritance2/inheritance2.iml" filepath="$PROJECT_DIR$/inheritance and polymorphism/inheritance2/inheritance2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance and polymorphism/interface/interface.iml" filepath="$PROJECT_DIR$/inheritance and polymorphism/interface/interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop.JavaEssential.iml" filepath="$PROJECT_DIR$/oop.JavaEssential.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance and polymorphism/override/override.iml" filepath="$PROJECT_DIR$/inheritance and polymorphism/override/override.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance and polymorphism/super_method/super_method.iml" filepath="$PROJECT_DIR$/inheritance and polymorphism/super_method/super_method.iml" />
     </modules>
   </component>
 </project>

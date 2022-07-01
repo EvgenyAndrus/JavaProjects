@@ -9,7 +9,7 @@ public class Main {
 }
 class Aa extends Main{
     Aa(){
-        System.out.println("Aa");
+        System.out.println("Aa!");
     }
 }
 class Bb extends Aa{

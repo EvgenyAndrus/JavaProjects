@@ -9,6 +9,9 @@
       <module fileurl="file://$PROJECT_DIR$/abstraction and interfaces/abstraction3/abstraction3.iml" filepath="$PROJECT_DIR$/abstraction and interfaces/abstraction3/abstraction3.iml" />
       <module fileurl="file://$PROJECT_DIR$/abstraction and interfaces/abstraction4/abstraction4.iml" filepath="$PROJECT_DIR$/abstraction and interfaces/abstraction4/abstraction4.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance and polymorphism/animal/animal.iml" filepath="$PROJECT_DIR$/inheritance and polymorphism/animal/animal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/arraylist/arraylist.iml" filepath="$PROJECT_DIR$/arrays/arraylist/arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/arrays1/arrays1.iml" filepath="$PROJECT_DIR$/arrays/arrays1/arrays1.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance and polymorphism/bird/bird.iml" filepath="$PROJECT_DIR$/inheritance and polymorphism/bird/bird.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance and polymorphism/final_class/final_class.iml" filepath="$PROJECT_DIR$/inheritance and polymorphism/final_class/final_class.iml" />
       <module fileurl="file://$PROJECT_DIR$/abstraction and interfaces/i_bird/i_bird.iml" filepath="$PROJECT_DIR$/abstraction and interfaces/i_bird/i_bird.iml" />

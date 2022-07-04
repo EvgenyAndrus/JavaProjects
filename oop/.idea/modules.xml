@@ -25,6 +25,13 @@
       <module fileurl="file://$PROJECT_DIR$/abstraction and interfaces/interface4/interface4.iml" filepath="$PROJECT_DIR$/abstraction and interfaces/interface4/interface4.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop.JavaEssential.iml" filepath="$PROJECT_DIR$/oop.JavaEssential.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance and polymorphism/override/override.iml" filepath="$PROJECT_DIR$/inheritance and polymorphism/override/override.iml" />
+      <module fileurl="file://$PROJECT_DIR$/static_memebers/static1/static1.iml" filepath="$PROJECT_DIR$/static_memebers/static1/static1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/static_memebers/static2/static2.iml" filepath="$PROJECT_DIR$/static_memebers/static2/static2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/static_memebers/static3/static3.iml" filepath="$PROJECT_DIR$/static_memebers/static3/static3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/static_memebers/static4/static4.iml" filepath="$PROJECT_DIR$/static_memebers/static4/static4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/static_memebers/static5/static5.iml" filepath="$PROJECT_DIR$/static_memebers/static5/static5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/static_memebers/static6/static6.iml" filepath="$PROJECT_DIR$/static_memebers/static6/static6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/static_memebers/static_memebers.iml" filepath="$PROJECT_DIR$/static_memebers/static_memebers.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance and polymorphism/super_method/super_method.iml" filepath="$PROJECT_DIR$/inheritance and polymorphism/super_method/super_method.iml" />
     </modules>
   </component>

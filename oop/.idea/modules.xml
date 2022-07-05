@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrays/arrays1/arrays1.iml" filepath="$PROJECT_DIR$/arrays/arrays1/arrays1.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance and polymorphism/bird/bird.iml" filepath="$PROJECT_DIR$/inheritance and polymorphism/bird/bird.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enums/enums.iml" filepath="$PROJECT_DIR$/enums/enums.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance and polymorphism/final_class/final_class.iml" filepath="$PROJECT_DIR$/inheritance and polymorphism/final_class/final_class.iml" />
       <module fileurl="file://$PROJECT_DIR$/abstraction and interfaces/i_bird/i_bird.iml" filepath="$PROJECT_DIR$/abstraction and interfaces/i_bird/i_bird.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance and polymorphism/inheritance and polymorphism.iml" filepath="$PROJECT_DIR$/inheritance and polymorphism/inheritance and polymorphism.iml" />

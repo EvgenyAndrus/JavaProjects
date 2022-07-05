@@ -9,6 +9,10 @@
       <module fileurl="file://$PROJECT_DIR$/abstraction and interfaces/abstraction3/abstraction3.iml" filepath="$PROJECT_DIR$/abstraction and interfaces/abstraction3/abstraction3.iml" />
       <module fileurl="file://$PROJECT_DIR$/abstraction and interfaces/abstraction4/abstraction4.iml" filepath="$PROJECT_DIR$/abstraction and interfaces/abstraction4/abstraction4.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance and polymorphism/animal/animal.iml" filepath="$PROJECT_DIR$/inheritance and polymorphism/animal/animal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anonymous_classes/anonymous1/anonymous1.iml" filepath="$PROJECT_DIR$/anonymous_classes/anonymous1/anonymous1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anonymous_classes/anonymous2/anonymous2.iml" filepath="$PROJECT_DIR$/anonymous_classes/anonymous2/anonymous2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anonymous_classes/anonymous3/anonymous3.iml" filepath="$PROJECT_DIR$/anonymous_classes/anonymous3/anonymous3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anonymous_classes/anonymous_classes.iml" filepath="$PROJECT_DIR$/anonymous_classes/anonymous_classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrays/arraylist/arraylist.iml" filepath="$PROJECT_DIR$/arrays/arraylist/arraylist.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrays/arrays1/arrays1.iml" filepath="$PROJECT_DIR$/arrays/arrays1/arrays1.iml" />
@@ -39,6 +43,7 @@
       <module fileurl="file://$PROJECT_DIR$/static_memebers/static6/static6.iml" filepath="$PROJECT_DIR$/static_memebers/static6/static6.iml" />
       <module fileurl="file://$PROJECT_DIR$/static_memebers/static_memebers.iml" filepath="$PROJECT_DIR$/static_memebers/static_memebers.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance and polymorphism/super_method/super_method.iml" filepath="$PROJECT_DIR$/inheritance and polymorphism/super_method/super_method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anonymous_classes/test/test.iml" filepath="$PROJECT_DIR$/anonymous_classes/test/test.iml" />
     </modules>
   </component>
 </project>

@@ -18,6 +18,17 @@
       <module fileurl="file://$PROJECT_DIR$/arrays/arrays1/arrays1.iml" filepath="$PROJECT_DIR$/arrays/arrays1/arrays1.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance and polymorphism/bird/bird.iml" filepath="$PROJECT_DIR$/inheritance and polymorphism/bird/bird.iml" />
       <module fileurl="file://$PROJECT_DIR$/enums/enums.iml" filepath="$PROJECT_DIR$/enums/enums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exceptions/exception1/exception1.iml" filepath="$PROJECT_DIR$/exceptions/exception1/exception1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exceptions/exception10/exception10.iml" filepath="$PROJECT_DIR$/exceptions/exception10/exception10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exceptions/exception11/exception11.iml" filepath="$PROJECT_DIR$/exceptions/exception11/exception11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exceptions/exception2/exception2.iml" filepath="$PROJECT_DIR$/exceptions/exception2/exception2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exceptions/exception3/exception3.iml" filepath="$PROJECT_DIR$/exceptions/exception3/exception3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exceptions/exception4/exception4.iml" filepath="$PROJECT_DIR$/exceptions/exception4/exception4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exceptions/exception5/exception5.iml" filepath="$PROJECT_DIR$/exceptions/exception5/exception5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exceptions/exception6/exception6.iml" filepath="$PROJECT_DIR$/exceptions/exception6/exception6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exceptions/exception7/exception7.iml" filepath="$PROJECT_DIR$/exceptions/exception7/exception7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exceptions/exception8/exception8.iml" filepath="$PROJECT_DIR$/exceptions/exception8/exception8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exceptions/exceptions.iml" filepath="$PROJECT_DIR$/exceptions/exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance and polymorphism/final_class/final_class.iml" filepath="$PROJECT_DIR$/inheritance and polymorphism/final_class/final_class.iml" />
       <module fileurl="file://$PROJECT_DIR$/abstraction and interfaces/i_bird/i_bird.iml" filepath="$PROJECT_DIR$/abstraction and interfaces/i_bird/i_bird.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance and polymorphism/inheritance and polymorphism.iml" filepath="$PROJECT_DIR$/inheritance and polymorphism/inheritance and polymorphism.iml" />

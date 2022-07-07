@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/arrays/arrays1/arrays1.iml" filepath="$PROJECT_DIR$/arrays/arrays1/arrays1.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance and polymorphism/bird/bird.iml" filepath="$PROJECT_DIR$/inheritance and polymorphism/bird/bird.iml" />
       <module fileurl="file://$PROJECT_DIR$/class_object/class1/class1.iml" filepath="$PROJECT_DIR$/class_object/class1/class1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class_object/class2/class2.iml" filepath="$PROJECT_DIR$/class_object/class2/class2.iml" />
       <module fileurl="file://$PROJECT_DIR$/class_object/class_object.iml" filepath="$PROJECT_DIR$/class_object/class_object.iml" />
       <module fileurl="file://$PROJECT_DIR$/enums/enums.iml" filepath="$PROJECT_DIR$/enums/enums.iml" />
       <module fileurl="file://$PROJECT_DIR$/exceptions/exception1/exception1.iml" filepath="$PROJECT_DIR$/exceptions/exception1/exception1.iml" />

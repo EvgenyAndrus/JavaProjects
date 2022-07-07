@@ -3,5 +3,6 @@ public class Main {
         Car car = new Car(160,"blue");
         System.out.println(car.getClass());
         System.out.println(car);
+
     }
 }

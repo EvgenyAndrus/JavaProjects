@@ -1,7 +1,8 @@
 public class Car {
     private int speed;
     private String color;
-    public Car(int speed,String color){
+
+    public Car(int speed, String color) {
         this.speed = speed;
         this.color = color;
     }
@@ -26,4 +27,8 @@ public class Car {
     public String toString() {
         return String.format("Speed is:%d\nColor is:%s",speed,color);
     }
+
+    /*public String toString() {
+        return super.toString();
+    }*/
 }

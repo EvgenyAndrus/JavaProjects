@@ -33,6 +33,11 @@
       <module fileurl="file://$PROJECT_DIR$/exceptions/exception8/exception8.iml" filepath="$PROJECT_DIR$/exceptions/exception8/exception8.iml" />
       <module fileurl="file://$PROJECT_DIR$/exceptions/exceptions.iml" filepath="$PROJECT_DIR$/exceptions/exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance and polymorphism/final_class/final_class.iml" filepath="$PROJECT_DIR$/inheritance and polymorphism/final_class/final_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/generic1/generic1.iml" filepath="$PROJECT_DIR$/generics/generic1/generic1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/generic2/generic2.iml" filepath="$PROJECT_DIR$/generics/generic2/generic2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/generic3/generic3.iml" filepath="$PROJECT_DIR$/generics/generic3/generic3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/generic4/generic4.iml" filepath="$PROJECT_DIR$/generics/generic4/generic4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/abstraction and interfaces/i_bird/i_bird.iml" filepath="$PROJECT_DIR$/abstraction and interfaces/i_bird/i_bird.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance and polymorphism/inheritance and polymorphism.iml" filepath="$PROJECT_DIR$/inheritance and polymorphism/inheritance and polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance and polymorphism/inheritance1/inheritance1.iml" filepath="$PROJECT_DIR$/inheritance and polymorphism/inheritance1/inheritance1.iml" />
@@ -59,6 +64,8 @@
       <module fileurl="file://$PROJECT_DIR$/static_memebers/static_memebers.iml" filepath="$PROJECT_DIR$/static_memebers/static_memebers.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance and polymorphism/super_method/super_method.iml" filepath="$PROJECT_DIR$/inheritance and polymorphism/super_method/super_method.iml" />
       <module fileurl="file://$PROJECT_DIR$/anonymous_classes/test/test.iml" filepath="$PROJECT_DIR$/anonymous_classes/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/withgen/withgen.iml" filepath="$PROJECT_DIR$/generics/withgen/withgen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/withoutgen/withoutgen.iml" filepath="$PROJECT_DIR$/generics/withoutgen/withoutgen.iml" />
     </modules>
   </component>
 </project>

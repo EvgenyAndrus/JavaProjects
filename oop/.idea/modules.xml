@@ -33,10 +33,15 @@
       <module fileurl="file://$PROJECT_DIR$/exceptions/exception8/exception8.iml" filepath="$PROJECT_DIR$/exceptions/exception8/exception8.iml" />
       <module fileurl="file://$PROJECT_DIR$/exceptions/exceptions.iml" filepath="$PROJECT_DIR$/exceptions/exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance and polymorphism/final_class/final_class.iml" filepath="$PROJECT_DIR$/inheritance and polymorphism/final_class/final_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/g_bird/g_bird.iml" filepath="$PROJECT_DIR$/generics/g_bird/g_bird.iml" />
       <module fileurl="file://$PROJECT_DIR$/generics/generic1/generic1.iml" filepath="$PROJECT_DIR$/generics/generic1/generic1.iml" />
       <module fileurl="file://$PROJECT_DIR$/generics/generic2/generic2.iml" filepath="$PROJECT_DIR$/generics/generic2/generic2.iml" />
       <module fileurl="file://$PROJECT_DIR$/generics/generic3/generic3.iml" filepath="$PROJECT_DIR$/generics/generic3/generic3.iml" />
       <module fileurl="file://$PROJECT_DIR$/generics/generic4/generic4.iml" filepath="$PROJECT_DIR$/generics/generic4/generic4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/generic5/generic5.iml" filepath="$PROJECT_DIR$/generics/generic5/generic5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/generic6/generic6.iml" filepath="$PROJECT_DIR$/generics/generic6/generic6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/generic7/generic7.iml" filepath="$PROJECT_DIR$/generics/generic7/generic7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/generic8/generic8.iml" filepath="$PROJECT_DIR$/generics/generic8/generic8.iml" />
       <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/abstraction and interfaces/i_bird/i_bird.iml" filepath="$PROJECT_DIR$/abstraction and interfaces/i_bird/i_bird.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance and polymorphism/inheritance and polymorphism.iml" filepath="$PROJECT_DIR$/inheritance and polymorphism/inheritance and polymorphism.iml" />

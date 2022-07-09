@@ -23,7 +23,9 @@ public class Main {
         Circle circle = new Circle();
 
         IContainer<Circle> container = new Container<>(circle);
+        IContainer<Shape> container1 = new Container<>(circle);
 
         System.out.println(container.getFigure().toString());
+        System.out.println(container1.getFigure().toString());
     }
 }

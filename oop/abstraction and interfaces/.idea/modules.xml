@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/a_bird/a_bird.iml" filepath="$PROJECT_DIR$/a_bird/a_bird.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/abstraction and interfaces.iml" filepath="$PROJECT_DIR$/.idea/abstraction and interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstraction1/abstraction1.iml" filepath="$PROJECT_DIR$/abstraction1/abstraction1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstraction2/abstraction2.iml" filepath="$PROJECT_DIR$/abstraction2/abstraction2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstraction3/abstraction3.iml" filepath="$PROJECT_DIR$/abstraction3/abstraction3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstraction4/abstraction4.iml" filepath="$PROJECT_DIR$/abstraction4/abstraction4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/i_bird/i_bird.iml" filepath="$PROJECT_DIR$/i_bird/i_bird.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface1/interface1.iml" filepath="$PROJECT_DIR$/interface1/interface1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface2/interface2.iml" filepath="$PROJECT_DIR$/interface2/interface2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface3/interface3.iml" filepath="$PROJECT_DIR$/interface3/interface3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface4/interface4.iml" filepath="$PROJECT_DIR$/interface4/interface4.iml" />
+    </modules>
+  </component>
+</project>
